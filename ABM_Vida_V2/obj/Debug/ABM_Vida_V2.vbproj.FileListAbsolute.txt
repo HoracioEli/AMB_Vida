@@ -1,0 +1,13 @@
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.vbprojAssemblyReference.cache
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.FPrincipal.resources
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.Resources.resources
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.vbproj.GenerateResource.cache
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\bin\Debug\ABM_Vida_V2.exe.config
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\bin\Debug\ABM_Vida_V2.exe
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\bin\Debug\ABM_Vida_V2.pdb
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\bin\Debug\ABM_Vida_V2.xml
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.exe
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.xml
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.pdb
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.vbproj.ResolveComReference.cache
+C:\Publico\ABM_Vida_V2\ABM_Vida_V2\obj\Debug\ABM_Vida_V2.FSepararApellidoNombre.resources
